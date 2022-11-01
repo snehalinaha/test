@@ -1,0 +1,6 @@
+#Just Checking what's up with GITHUB
+public class d{
+public static void main(String[] args){
+System.out.println("HEY GUYS");
+}
+}
